@@ -1,0 +1,9 @@
+Locatie: [[Des helmos]]
+[[Grimli]] blokkeert de weg naar beneden om te zorgen dat de bootsman en 2 matrozen niet naar beneden kunnen komen. [[Dorian]] laat de matrozen slapen terwijl Grimli met de bootsman duelleert. [[Prixi]] checkt hoe [[Muisje]] er voor staat.
+
+Dorian wil terug naar het dek keren om te laten weten dat wij het schip overnemen en hij krijgt hulp daarbij van Prixi en [[Kyra]]. Hij doet epic entrance met rook en vuurwerk en muziek en levitation (en rolt een 4). Hij roept "ik ben jullie kapitein nu!!" En niemand reageert. Dorian doet het nog een keer en faalt een sleep. Grimli intimideert de kapitein maar de kapitein wijkt niet en begint een tegenaanval. Kyra gooit een thunderwave en blaast de stuurmannen en kapitein weg tegen de muur. Kapitein de vlucht eetzaal in. Prixi roept uit tegen de terughoudende crew dat we hier alleen voor de kapitein zijn en dat we niet langer onder zijn ijzer vuist zullen leven. Hierdoor kalmeert de rest van de crew een beetje. [Kapitein] geeft op en wil niet meer vechten. We dumpen hem op het eiland met de 2 matrozen en stuurman 1. We spreken de crew toe en geven de keuken en voorraad taken aan kok [[maginos]]. 
+
+We varen naar het westen langs een groot schedel en komen aan bij [[Groenlander]] bij een haven genaamd [[Baat Clean Haven]] ["Schoonste plek op aarde"]. Burgemeester ([[Tress]]) zegt "in de baai woont [[Trientje]]" bij de schedel. We verkopen onze goederen met goede prijzen. Schip staat aan de linkerkant van het dorp en we overnachten in een herberg. Daarna krijgen we een opdracht van de burgemeester: de stad heeft een “ratten” probleem.
+
+Back {[[Session 3]]}
+Forward {[[Session 5]]}

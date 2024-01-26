@@ -1,0 +1,1 @@
+[[Kapitein vrijdag]] heeft een papegaai genaamd [[Rob cruiso]] en een haak. Hij doet wel aan slavernij zo nu en dan. Zijn schip heette de Borrenburg. Hij vervoerde de slaven elven tribe en had hostage Grinky aanboord. Hij dubbel crosste de Agile Hands en stierf aan de handen van [[Kyra]]. [[Erik]] vocht daarna samen met [[Eldan]] tegen zijn papegaai dat een monster bleek te zijn.

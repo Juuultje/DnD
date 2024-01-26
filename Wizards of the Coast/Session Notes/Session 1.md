@@ -1,0 +1,6 @@
+Locatie: [[Des helmos]]
+De start van ons ([[Prixi]], [[Erik]], [[Eldan]], [[Dorian]], [[Grimli]], [[Kyra]]) verhaal
+
+We begonnen in een haven in [[Iberos]], allen vreemdelingen van elkaar. Ieder had zijn eigen redenen om aan boord van de ‘[[Des helmos]]’ te stappen maar samen zouden zij een onverwoestbaar team worden. De introducties verlopen vlot en de boot verlaat de haven. Kort nadat de boot in het open water terecht komt gebeurt er helaas iets wat niemand verwachtte (zo vroeg in de campaign :P) namelijk de boot wordt aangevallen door zeewezens die lijken op haaien. (Wij oefenen met hoe combat werkt hehe). Na het gevecht pakken de scheepslieden hun taken weer op en vaart het schip weer door als normaal. Ondertussen maakt de crew wat praatjes met de [[kapitein]], [[maginos]] de kok en bootsman [[Marcellos]]. Een paar dagen later merkt Eldan, die zich in het kraaiennest bevindt, in de verte een eiland. Dit was de perfecte plek om even te rusten en de voedselopslag aan te vullen. Een search party werd uitgekozen en zij verdeelden zich over 2 sloepen en vertrokken naar het eiland. Nog niet eens halverwege beginnen vreemde half haai, half octopus dieren ons aan te vallen en 1 matroos wordt uit de boot gestolen en verdwijnt de zee in. Cliffhanger.
+
+Forward {[[Session 2]]}

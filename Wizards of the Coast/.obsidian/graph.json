@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Details/Locations",
+      "color": {
+        "a": 1,
+        "rgb": 6404182
+      }
+    },
+    {
+      "query": "tag:#Playercharacter",
+      "color": {
+        "a": 1,
+        "rgb": 13472024
+      }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 9466714
+      }
+    },
+    {
+      "query": "tag:#Crew",
+      "color": {
+        "a": 1,
+        "rgb": 14893862
+      }
+    },
+    {
+      "query": "tag:#Specialsession",
+      "color": {
+        "a": 1,
+        "rgb": 6613222
+      }
+    },
+    {
+      "query": "path:\"Session Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 5877230
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4165841771987304,
+  "close": true
+}
