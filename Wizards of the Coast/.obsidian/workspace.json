@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 18.md",
+                "file": "Session Notes/Session 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Details/The Agile Hands.md",
-                "mode": "preview",
+                "file": "Details/Characters/Erik.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#location",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 18.md",
+                "file": "Details/Characters/Erik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 18.md",
+                "file": "Details/Characters/Erik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 18.md"
+                "file": "Details/Characters/Erik.md"
               }
             }
           }
@@ -168,13 +167,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c44cda3c3b88c0a6",
+  "active": "eb003a1ae18838c7",
   "lastOpenFiles": [
+    "Details/Characters/Prixi.md",
+    "Details/Characters/Erik.md",
+    "Session Notes/Session 16.md",
+    "Session Notes/Session 13.md",
+    "Details/Characters/Kyra.md",
+    "Details/Characters/Grimli.md",
+    "Details/Characters/Eldan.md",
+    "Details/Characters/Dorian.md",
+    "Details/Locations/Nieuw Leven.md",
+    "Session Notes/Session 12.md",
+    "Session Notes/Session 11.md",
+    "Session Notes/Session 18.md",
     "Details/The Agile Hands.md",
     "DONT LOOK Oneshot Notes.md",
-    "Session Notes/Session 16.md",
     "Session Notes/Session 17.md",
-    "Session Notes/Session 18.md",
     "Details/Sidequest.md",
     "Images",
     "Images/Letter.jpeg",
@@ -191,16 +200,6 @@
     "Details/Crew/Gustaf.md",
     "Details/Locations/Tortuga.md",
     "Details/Locations/port Hope.md",
-    "Details/Locations/Nutberg.md",
-    "Details/Locations/Nieuw Leven.md",
-    "Details/Locations/Misty island.md",
-    "Details/Locations/Iberos.md",
-    "Details/Locations/Groenlander.md",
-    "Details/Locations/Grayhaven.md",
-    "Details/Locations/Des helmos.md",
-    "Details/Locations/De Rave party.md",
-    "Details/Locations/Black Swan Inn.md",
-    "Details/Locations/Baat Clean Haven.md",
     "Details/Npc",
     "Details/Crew",
     "Details",
