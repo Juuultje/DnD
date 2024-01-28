@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 5877230
       }
+    },
+    {
+      "query": "path:\"DM notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2960707
+      }
     }
   ],
   "collapse-display": true,
@@ -61,5 +68,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.4165841771987304,
-  "close": true
+  "close": false
 }
