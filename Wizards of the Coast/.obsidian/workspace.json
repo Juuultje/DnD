@@ -6,7 +6,7 @@
       {
         "id": "a079f3b6b281eca1",
         "type": "tabs",
-        "dimension": 57.73993808049536,
+        "dimension": 51.93498452012384,
         "children": [
           {
             "id": "b48bb5ea79abbec4",
@@ -14,19 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Details/Characters/Dorian.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f1814e3c21460ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 18.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "07e208070284706a",
         "type": "tabs",
-        "dimension": 42.26006191950464,
+        "dimension": 48.06501547987616,
         "children": [
           {
             "id": "eb003a1ae18838c7",
@@ -110,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/Session 18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/Session 18.md"
+              }
             }
           }
         ]
@@ -167,34 +184,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb003a1ae18838c7",
+  "active": "9f1814e3c21460ef",
   "lastOpenFiles": [
-    "Details/Crew/maginos.md",
-    "Session Notes/Session 14.md",
-    "Details/Characters/Prixi.md",
-    "Details/Characters/Kyra.md",
-    "Details/Characters/Grimli.md",
+    "Session Notes/Session 17.md",
+    "Session Notes/Session 18.md",
+    "Session Notes/Session 16.md",
+    "Details/Locations/Des helmos.md",
+    "Details/Npc/Trientje.md",
+    "Details/Npc/Roger Lass.md",
+    "Details/Npc/Rob cruiso.md",
+    "Details/Npc/Maximos de dillos.md",
+    "Details/Npc/Kapitein vrijdag.md",
+    "Details/Npc/Jan Spreeuw.md",
+    "Details/Npc/Bob Ross.md",
+    "Details/Npc/Barbier baas.md",
     "Details/Characters/Erik.md",
     "Details/Characters/Eldan.md",
+    "- Intro.md",
+    "Untitled.canvas",
+    "Details/Sidequest.md",
     "Details/Characters/Dorian.md",
-    "Rob cruiso.md",
-    "Session Notes/Session 3.md",
-    "Details/Bekende Piraten.md",
-    "Details/Crew/Gustaf.md",
-    "Details/Crew/kapitein.md",
-    "Details/Npc/Maximos de dillos.md",
-    "Session Notes/Session 16.md",
-    "Details/Npc/Jan Spreeuw.md",
     "Session Notes/Session 15.md",
-    "Details/Locations/Nutberg.md",
-    "Details/Locations/Insomnia.md",
-    "Details/Locations/Misty island.md",
-    "Details/Locations/Des helmos.md",
-    "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
-    "Details/Locations/De Rave party.md",
-    "Session Notes/Session 13.md",
-    "Details/Locations/Black Swan Inn.md",
-    "Details/Locations/Baat Clean Haven.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "Details/Crew/kapitein.md",
+    "Session Notes/Session 14.md",
+    "Details/Crew/maginos.md",
+    "Details/Characters/Prixi.md",
     "- Images",
     "- Images/Letter.jpeg",
     "- Images/Guildhousemap.jpeg",

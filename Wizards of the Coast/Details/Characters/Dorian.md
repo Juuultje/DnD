@@ -6,7 +6,7 @@ Race: Gnome
 Magic: Yes
 
 -Story-
-Origin:
+Origin: was sent out with a mission to find the person who can't stop breeding animals
 interests:
 
 Enemies:
@@ -16,7 +16,7 @@ Friends:
 
 
 Dorian quotes:
-
-"Surrender or sleep forever" Dorians nieuwe catchline.
+"ik ben jullie kapitein nu!!" -[[Session 4]]
+"Surrender or sleep forever" Dorians nieuwe catchline. -[[Session 15]]
 "Je had de kans om je over te geven... Nu ga je slapen" -[[Session 15]]
-"Kruip! Anders ga je dood. :| okay" - 18 ft erik
+"Kruip! Anders ga je dood. :| okay" - [[Session 18]] ft. [[Erik]]

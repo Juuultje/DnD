@@ -13,10 +13,12 @@ Prixi breekt de dakpannen en maakt een gat in het dak om Kyra te kunnen zien, ma
 Thunderbolt, tapijt in de fik, red het schilderij
 Kyra trapt de trap weg
 
+Dorian tegen een blinded Erik
 "Kruip! Anders ga je dood.  ... :| okay"
 
 
 TBA
+{Julia's taak om dit in te vullen}
 
 
 [[Trientje]] handeled voor ons met de Oni

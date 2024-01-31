@@ -39,14 +39,14 @@
       "query": "tag:#NPC  ",
       "color": {
         "a": 1,
-        "rgb": 13985687
+        "rgb": 11889034
       }
     },
     {
       "query": "path:\"- DM notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 1120562
+        "rgb": 1909557
       }
     }
   ],
@@ -56,7 +56,7 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 302,
