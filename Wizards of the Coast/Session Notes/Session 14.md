@@ -6,27 +6,24 @@ We hebben de mogelijkheid tot schip teruggebracht naar 2 keuses; de Borrenburg e
 
 Verder op schip besluiten we te wachten tot er verdere activiteit wordt gemeten vanuit de kluis. Grimli en Erik blijven langzaam in kroegen informatie halen. Eldan blijft op het schip op de uitkijk staan en prixi blijft ook op het schip.
 
-Behaalde informatie; Piraten
+Behaalde informatie; [[Bekende Piraten]]
 
 [[Kapitein vrijdag]] heeft een papegaai genaamd [[Rob cruiso]] en een haak. Hij doet wel aan slavernij zo nu en dan. Hij zit op de Borrenburg.
 
 [[Kapitein Roger Jolly]] heeft geen haak en handelt in van alles en nog al. Hij heeft een schip genaamd de Mermaid.
 
-  
 
-Eldan merkt dat er iets wordt uitgeladen (live stock, provianten en kooien) maar op dat moment zit de rest in de stad dus stuurt hij een messenger om Erik en Grimli terug te sturen. Erik komt onderweg terug een kobold tegen die zijn medaillon herkent: Brrt. Hij begint te praten over Nutberg in baat cleanhaven en zijn nichtje en neefje julkje en juukje. Brrt begint te vertellen over hoe hij tunnels graaft in het fort
 
-  
+Eldan merkt dat er iets wordt uitgeladen (live stock, provianten en kooien) maar op dat moment zit de rest in de stad dus stuurt hij een messenger om Erik en Grimli terug te sturen. Erik komt onderweg terug een kobold tegen die zijn medaillon herkent: Brrt. Hij begint te praten over [[Nutberg]] in [[Baat Clean Haven]] en zijn nichtje en neefje julkje en juukje. Brrt begint te vertellen over hoe hij tunnels graaft in het fort.
+
 
 'Brrt? Wat doe jij hier?' zegt Kees de halfling. Ze worden betrapt en Kees zegt dat Erik niet hier (in de buurt van het fort) mag zijn. Dus zij lopen snel weer weg. En dan laat Brrt vallen dat ze ook naar de tweede secret tunnel kunnen vanaf het huis van de gouverneur. Ergens komt hij Kyra tegen. En zo komt de crew uiteindelijk weer terug bij het schip
 
-  
 
 We denken dat het verstandiger is om eerder te vertrekken dan de Borrenburg om minder op te vallen. Dus varen we richting 't zuiden tot we 20-30 minuten later het andere schip ook zien vertrekken. We blijven het andere schip een paar uur (tegenover gestelde van) volgen tot het donkerder is en het schip ons ten oosten langzaam aan het passeren is. (Op ongeveer een kilometer afstand). Er wordt overdag lang gediscussieerd over plan van aanpak en eenmaal tegen de avond zijn ze er uit.
-
   
 
-Eldan en Prixi gaan samen om informatie te verzamelen over de locatie van de elven en om hun artillerie te saboteren.
+[[Eldan]] en [[Prixi]] gaan samen naar het andere schip om informatie te verzamelen over de locatie van de elven en om hun artillerie te saboteren.
 
 Waterwalk + invisibility + wolf
 

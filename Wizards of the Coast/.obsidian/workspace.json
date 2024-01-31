@@ -6,6 +6,7 @@
       {
         "id": "a079f3b6b281eca1",
         "type": "tabs",
+        "dimension": 57.73993808049536,
         "children": [
           {
             "id": "b48bb5ea79abbec4",
@@ -13,12 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 13.md",
+                "file": "Session Notes/Session 3.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "07e208070284706a",
+        "type": "tabs",
+        "dimension": 42.26006191950464,
+        "children": [
           {
             "id": "eb003a1ae18838c7",
             "type": "leaf",
@@ -27,8 +36,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,37 +169,37 @@
   },
   "active": "eb003a1ae18838c7",
   "lastOpenFiles": [
+    "Rob cruiso.md",
+    "Session Notes/Session 3.md",
+    "Details/Bekende Piraten.md",
+    "Details/Crew/Gustaf.md",
+    "Details/Crew/kapitein.md",
+    "Details/Crew/maginos.md",
+    "Details/Npc/Maximos de dillos.md",
+    "Session Notes/Session 16.md",
+    "Details/Npc/Jan Spreeuw.md",
+    "Session Notes/Session 15.md",
+    "Session Notes/Session 14.md",
+    "Details/Locations/Nutberg.md",
+    "Details/Locations/Insomnia.md",
+    "Details/Locations/Misty island.md",
+    "Details/Locations/Des helmos.md",
+    "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
+    "Details/Locations/De Rave party.md",
+    "Session Notes/Session 13.md",
+    "Details/Locations/Black Swan Inn.md",
+    "Details/Locations/Baat Clean Haven.md",
+    "Session Notes/Session 17.md",
+    "Session Notes/Session 18.md",
     "Details/Characters/Erik.md",
     "Details/Characters/Prixi.md",
-    "Session Notes/Session 16.md",
-    "Session Notes/Session 13.md",
     "Details/Characters/Kyra.md",
     "Details/Characters/Grimli.md",
-    "Details/Characters/Eldan.md",
-    "Details/Characters/Dorian.md",
-    "Details/Locations/Nieuw Leven.md",
-    "Session Notes/Session 12.md",
-    "Session Notes/Session 11.md",
-    "Session Notes/Session 18.md",
-    "Details/The Agile Hands.md",
-    "DONT LOOK Oneshot Notes.md",
-    "Session Notes/Session 17.md",
-    "Details/Sidequest.md",
-    "Images",
-    "Images/Letter.jpeg",
-    "Session Notes/Session 15.md",
-    "Images/Guildhousemap.jpeg",
-    "Images/BoatManuver.png",
-    "19-01-2024.md",
+    "- Images",
+    "- Images/Letter.jpeg",
+    "- Images/Guildhousemap.jpeg",
+    "- Images/BoatManuver.png",
     "Pasted image 20231105195114.png",
-    "Details/Npc/Roger Lass.md",
-    "Session Notes/Session 14.md",
-    "Details/Crew/Maximos de dillos.md",
-    "Details/Crew/maginos.md",
-    "Details/Crew/kapitein.md",
-    "Details/Crew/Gustaf.md",
-    "Details/Locations/Tortuga.md",
-    "Details/Locations/port Hope.md",
     "Details/Npc",
     "Details/Crew",
     "Details",

@@ -1,4 +1,4 @@
-Locatie: Op zee/[[Grayhaven]]
+Locatie: [[Insomnia]]/[[Grayhaven]]
 Van de crew die we aangevallen hebben:
 Jopie bij de crew (oeps)
 Andrew overboord

@@ -1,2 +1,2 @@
 #location 
-Place in [[Nieuw Leven]]
+Plaats in [[Nieuw Leven]]

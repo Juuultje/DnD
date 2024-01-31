@@ -6,7 +6,7 @@ Dorian met invisibility gefocust op hem en erik en Prixi met invisibility gefocu
 [[Dorian]] en [[Erik]] sluipen de stables in terwijl [[Kyra]] en [[Prixi]] doorsluipen om het 2e gebouw te benaderen 
 
 TBA
-
+{Julia's taak om dit in te vullen}
 
 In de kelder vinden Dorian en Erik een brief met een bericht voor ieder die "het training parkour" gaat afleggen. [[Letter.jpeg]]
 

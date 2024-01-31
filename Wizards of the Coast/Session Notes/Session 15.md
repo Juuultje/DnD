@@ -1,5 +1,5 @@
 Locatie: Op zee
-[[Eldan]] en [[Prixi]] weten veilig weer van het schip af te slippen en rijden terug naar de [[Insomniac]]. Eenmaal aangekomen is dat het signaal om de boot richting de Borrenburg te sturen. Wanneer we in de buurt genoeg komen worden we eindelijk gespot en begint de Borrenburg zich 90° graden om te draaien zodat het vuur kunnen openen op ons.
+[[Eldan]] en [[Prixi]] weten veilig weer van het schip af te slippen en rijden terug naar de [[Insomnia]]. Eenmaal aangekomen is dat het signaal om de boot richting de Borrenburg te sturen. Wanneer we in de buurt genoeg komen worden we eindelijk gespot en begint de Borrenburg zich 90° graden om te draaien zodat het vuur kunnen openen op ons.
 
 Ze merken dat de kanonnen niet afgaan en beginnen al snel in snelheid af te nemen. Wij draaien de Insomniac mee en gaan parallel naast hun varen terwijl wij een sleepkogel afschieten op de achterkant van hun schip, hopend om de kajuit te raken.
 
