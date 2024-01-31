@@ -2,7 +2,7 @@
 [[Prixi]] klimt eindelijk het dak op
 [[Eldan]] zapped weer iemand
 
-[[Kyra]] krijgt een zwaard in haar nek een een dreigend woord van een vrouw, zij fake dropped het schilderij en Misty stepped daarna naar boven en smijt het schilderij naar beneden
+[[Kyra]] krijgt een zwaard in haar nek een een dreigend woord van een vrouw, Kyra doet net alsof ze het schilderij laat vallen en misty stepped daarna naar een berging boven om vervolgens het schilderij naar beneden te gooien
 
 Grimli dropt een boom op wat gasten
 Eldan zapped nog iemand
@@ -13,8 +13,8 @@ Prixi breekt de dakpannen en maakt een gat in het dak om Kyra te kunnen zien, ma
 Thunderbolt, tapijt in de fik, red het schilderij
 Kyra trapt de trap weg
 
-Dorian tegen een blinded Erik
-"Kruip! Anders ga je dood.  ... :| okay"
+Dorian tegen een blinded [[Erik]]
+"Kruip! Anders ga je dood."  "... :| okay"
 
 
 TBA
