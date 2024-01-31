@@ -1,4 +1,4 @@
-#Playercharacter 
+#PC 
 Full name: Prixi Kryxi
 -Stats-
 Class: Bard, School of valor

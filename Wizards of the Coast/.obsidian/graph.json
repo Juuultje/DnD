@@ -5,9 +5,52 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#PC  ",
+      "color": {
+        "a": 1,
+        "rgb": 15050814
+      }
+    },
+    {
+      "query": "tag:#Crew  ",
+      "color": {
+        "a": 1,
+        "rgb": 13655875
+      }
+    },
+    {
+      "query": "path:\"Session Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5274579
+      }
+    },
+    {
+      "query": "tag:#location  ",
+      "color": {
+        "a": 1,
+        "rgb": 4185690
+      }
+    },
+    {
+      "query": "tag:#NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 13985687
+      }
+    },
+    {
+      "query": "path:\"- DM notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1120562
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -18,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 302,
   "scale": 0.4165841771987304,
-  "close": true
+  "close": false
 }

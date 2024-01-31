@@ -1,4 +1,4 @@
-#Playercharacter
+#PC 
 Full name: Dorian
 -Stats-
 Class: Wizard

@@ -1,4 +1,4 @@
-#Playercharacter 
+#PC 
 Full name: Kyra
 -Stats-
 Class: Sorcerer, storm sorcerer

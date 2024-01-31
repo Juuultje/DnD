@@ -1,4 +1,4 @@
-#Playercharacter 
+#PC 
 Full name: Erik Santar
 -Stats-
 Class: Rogue
