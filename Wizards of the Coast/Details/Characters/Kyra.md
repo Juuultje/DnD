@@ -1,4 +1,5 @@
-#PC 
+#PC Hugo
+
 Full name: Kyra
 -Stats-
 Class: Sorcerer, storm sorcerer

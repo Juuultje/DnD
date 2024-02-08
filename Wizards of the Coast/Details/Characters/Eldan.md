@@ -1,5 +1,6 @@
-#PC 
-Full name: Eldan
+#PC Justin
+
+Full name: Eldan Petlar
 -Stats-
 Class: Druid, moon circle
 Race: Elf
