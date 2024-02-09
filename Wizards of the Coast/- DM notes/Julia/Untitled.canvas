@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"2e3515da55287788","type":"file","file":"- Images/dagger.jpg","x":55,"y":-64,"width":301,"height":400},
+		{"id":"51b9c2124afd04aa","type":"file","file":"- Images/note_logo.png","x":460,"y":0,"width":400,"height":400},
+		{"id":"42c153e58d19aed4","type":"text","text":"Poppy","x":460,"y":-240,"width":120,"height":78}
+	],
+	"edges":[
+		{"id":"8eaa6cf6aad2055a","fromNode":"2e3515da55287788","fromSide":"right","toNode":"51b9c2124afd04aa","toSide":"left"},
+		{"id":"e2b43563c9b1e91e","fromNode":"42c153e58d19aed4","fromSide":"bottom","toNode":"51b9c2124afd04aa","toSide":"top"},
+		{"id":"3d6cedb340b58944","fromNode":"42c153e58d19aed4","fromSide":"left","toNode":"2e3515da55287788","toSide":"top"}
+	]
+}

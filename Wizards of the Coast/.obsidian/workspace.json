@@ -6,7 +6,7 @@
       {
         "id": "a079f3b6b281eca1",
         "type": "tabs",
-        "dimension": 51.93498452012384,
+        "dimension": 60.8359133126935,
         "children": [
           {
             "id": "b48bb5ea79abbec4",
@@ -14,47 +14,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Details/Characters/Eldan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a44661fd5d6fccd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "- DM notes/Justin/Session 19 & 20/Theos.md",
+                "file": "Details/Characters/Dorian.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9f1814e3c21460ef",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "- DM notes/Justin/Session 19 & 20/Untitled.canvas",
-                "viewState": {
-                  "x": 105.75,
-                  "y": 243.5,
-                  "zoom": 0
-                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "07e208070284706a",
         "type": "tabs",
-        "dimension": 48.06501547987616,
+        "dimension": 39.1640866873065,
         "children": [
           {
             "id": "eb003a1ae18838c7",
@@ -138,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- DM notes/Justin/Session 19 & 20/Theos.md",
+                "file": "Details/Characters/Dorian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- DM notes/Justin/Session 19 & 20/Theos.md",
+                "file": "Details/Characters/Dorian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- DM notes/Justin/Session 19 & 20/Theos.md"
+                "file": "Details/Characters/Dorian.md"
               }
             }
           }
@@ -199,12 +170,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a44661fd5d6fccd7",
+  "active": "b48bb5ea79abbec4",
   "lastOpenFiles": [
-    "- DM notes/Justin/Session 19 & 20/Untitled.canvas",
-    "- DM notes/Justin/Session 19 & 20/Theos.md",
+    "- DM notes/Julia/Untitled.canvas",
     "Details/Characters/Dorian.md",
     "Details/Characters/Eldan.md",
+    "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
+    "- Images/note_logo.png",
+    "- Images/dagger.jpg",
+    "- Images/dagger.jpg.crdownload",
+    "- Images/blank_note.png",
+    "- Images/note.png",
+    "note.png",
+    "- DM notes/Justin/Session 19 & 20/Untitled.canvas",
+    "- DM notes/Justin/Session 19 & 20/Theos.md",
     "Session Notes/Session 18.md",
     "Session Notes/Session 17.md",
     "Session Notes/Session 16.md",
@@ -219,7 +198,6 @@
     "Details/Npc/Barbier baas.md",
     "Details/Characters/Erik.md",
     "- Intro.md",
-    "Untitled.canvas",
     "Details/Sidequest.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 4.md",
@@ -227,7 +205,6 @@
     "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
     "Details/Crew/kapitein.md",
-    "Session Notes/Session 14.md",
     "- Images",
     "- Images/Letter.jpeg",
     "- Images/Guildhousemap.jpeg",
