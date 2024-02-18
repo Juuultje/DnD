@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Details/Characters/Dorian.md",
+                "file": "Details/Sidequest.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Details/Characters/Dorian.md",
+                "file": "Details/Sidequest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Details/Characters/Dorian.md",
+                "file": "Details/Sidequest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Details/Characters/Dorian.md"
+                "file": "Details/Sidequest.md"
               }
             }
           }
@@ -172,8 +172,11 @@
   },
   "active": "b48bb5ea79abbec4",
   "lastOpenFiles": [
-    "- DM notes/Julia/Untitled.canvas",
+    "Details/Bekende Piraten.md",
+    "Details/Sidequest.md",
+    "Session Notes/Session 12.md",
     "Details/Characters/Dorian.md",
+    "- DM notes/Julia/Untitled.canvas",
     "Details/Characters/Eldan.md",
     "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
     "- Images/note_logo.png",
@@ -198,13 +201,11 @@
     "Details/Npc/Barbier baas.md",
     "Details/Characters/Erik.md",
     "- Intro.md",
-    "Details/Sidequest.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 4.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
-    "Details/Crew/kapitein.md",
     "- Images",
     "- Images/Letter.jpeg",
     "- Images/Guildhousemap.jpeg",
