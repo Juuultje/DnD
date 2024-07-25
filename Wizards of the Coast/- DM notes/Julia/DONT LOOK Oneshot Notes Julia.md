@@ -16,6 +16,14 @@ Naast het eerste incident gebouw. De smid bedekt de hele begaande vloer en staat
 Wanneer je de mine binnen komt merk je een zeker pad in de afdeling waar Bruce werkt die leid naar een geheime kamer **verstopt achter een grote rots**. Je merkt dat de kamer super donker is en dat de enige licht bron een enkele kaars op tafel is. Binnen die kamer Staat een bureau en een grote kist, er ligt een hoed op de vloer en op het bureau zie je flesjes staan met een interessante vloeistof. In 1 van de hoeken is een duidelijk gat te vinden die verdwijnt in een diepe tunnel.
 in de kist zit een boek over Kruisvoortplanting. 
 
+Regional Effects
+The surrounding a vampire’s lair is warped by the creature’s unnatural presence, creating any of the following effects:
+- There’s a noticeable increase in the populations of bats, rats, and wolves in the region.
+ - Plants within 500 feet of the lair wither, and their stems and branches become twisted and thorny.
+ - Shadows cast within 500 feet of the lair seem abnormally gaunt and sometimes move as though alive.
+ - A creeping fog clings to the ground within 500 feet of the vampire’s lair. The fog occasionally takes eerie forms, such as grasping claws and writhing serpents.
+
+*"Going outside at night is already very dangerous, but to have these murders happen during the day?!? That scared me even more"*
 
 
 ## Order of business:

@@ -6,7 +6,7 @@
       {
         "id": "a079f3b6b281eca1",
         "type": "tabs",
-        "dimension": 60.8359133126935,
+        "dimension": 71.36222910216719,
         "children": [
           {
             "id": "b48bb5ea79abbec4",
@@ -38,7 +38,7 @@
       {
         "id": "07e208070284706a",
         "type": "tabs",
-        "dimension": 39.1640866873065,
+        "dimension": 28.637770897832816,
         "children": [
           {
             "id": "eb003a1ae18838c7",
@@ -183,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8e8cbf0f039c0e7",
+  "active": "2f2154a29b9bc03b",
   "lastOpenFiles": [
-    "- DM notes/Julia/Untitled.canvas",
+    "- DM notes/Justin/Session 19 & 20/Theos.md",
     "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
     "- DM notes/Julia/Food for thought.md",
+    "- DM notes/Julia/Untitled.canvas",
     "Details/Sidequest.md",
     "Details/Bekende Piraten.md",
     "Session Notes/Session 12.md",
@@ -200,7 +201,6 @@
     "- Images/note.png",
     "note.png",
     "- DM notes/Justin/Session 19 & 20/Untitled.canvas",
-    "- DM notes/Justin/Session 19 & 20/Theos.md",
     "Session Notes/Session 18.md",
     "Session Notes/Session 17.md",
     "Session Notes/Session 16.md",

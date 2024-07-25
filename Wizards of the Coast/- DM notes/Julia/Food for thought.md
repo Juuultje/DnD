@@ -1,2 +1,2 @@
-prepare a book on the big evil guy that could also be found during clue searching
-
+Boek over kruisvoortplanting
+Boek over bloed (types bloed, species met verschillend bloed)
