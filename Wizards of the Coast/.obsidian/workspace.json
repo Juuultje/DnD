@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Details/Sidequest.md",
+                "file": "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8e8cbf0f039c0e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "07e208070284706a",
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Details/Sidequest.md",
+                "file": "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Details/Sidequest.md",
+                "file": "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Details/Sidequest.md"
+                "file": "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md"
               }
             }
           }
@@ -170,15 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b48bb5ea79abbec4",
+  "active": "e8e8cbf0f039c0e7",
   "lastOpenFiles": [
-    "Details/Bekende Piraten.md",
+    "- DM notes/Julia/Untitled.canvas",
+    "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
+    "- DM notes/Julia/Food for thought.md",
     "Details/Sidequest.md",
+    "Details/Bekende Piraten.md",
     "Session Notes/Session 12.md",
     "Details/Characters/Dorian.md",
-    "- DM notes/Julia/Untitled.canvas",
     "Details/Characters/Eldan.md",
-    "- DM notes/Julia/DONT LOOK Oneshot Notes Julia.md",
     "- Images/note_logo.png",
     "- Images/dagger.jpg",
     "- Images/dagger.jpg.crdownload",
@@ -204,8 +218,6 @@
     "Session Notes/Session 15.md",
     "Session Notes/Session 4.md",
     "Session Notes/Session 3.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 1.md",
     "- Images",
     "- Images/Letter.jpeg",
     "- Images/Guildhousemap.jpeg",

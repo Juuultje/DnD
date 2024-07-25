@@ -5,16 +5,27 @@ Xavier: secretly a vampire and was looking for targets in other women that's why
 
 Poppy in jealousy goes after the mistresses as a way for the husband to be terrified seeing all his "loved ones" die
 
-her special area is the blacksmith
-his special area is the Saltcove
+### Poppy
+volle naam **Poppy Vivace**, 23, Rood haar en draagt in het dagelijks leven een rode jurk. Is laatst getrouwed met Bruce Rain en zijn net samen gaan wonen. Ze merkt nu dat ze samen wonen dat Bruce heel veel weg sluipt 's avonds en omdat hij al lange dagen werkt zien ze elkaar minder dan verwacht. Poppy onderzoekt waar Bruce naartoe gaat 's nachts en komt er achter dat hij andere vrouwen opzoekt. omgeslagen in jaloezie geeft ze die vrouwen de schuld en wild ze haar man laten schrikken dus gaat ze achter de vrouwen aan. Ze vermoord Rose van de bloemist overdag als het regent en er niemand op straat is, ze loopt de winkel binnen en steekt de vrouw neer met haar dolk en ontsnapt via de achter ingang en neemt zo een ander pad naar huis.
 
+#### her special area is the blacksmith
+Name of the shop: Blooming Blazes? 
+De smith; **gérard Vivace** (french flower name + annual lifespan) 
+Naast het eerste incident gebouw. De smid bedekt de hele begaande vloer en staat een stuk naar buiten uitgestald. Daarboven bevindt zich een **woonhuis** waar de eigenaar leeft. De smid maakt werk materialen en keuken apparatuur (I.E. mining tools, tree axes, bestek, **messen**).
+#### his special area is the Saltcove
+Wanneer je de mine binnen komt merk je een zeker pad in de afdeling waar Bruce werkt die leid naar een geheime kamer **verstopt achter een grote rots**. Je merkt dat de kamer super donker is en dat de enige licht bron een enkele kaars op tafel is. Binnen die kamer Staat een bureau en een grote kist, er ligt een hoed op de vloer en op het bureau zie je flesjes staan met een interessante vloeistof. In 1 van de hoeken is een duidelijk gat te vinden die verdwijnt in een diepe tunnel.
+in de kist zit een boek over Kruisvoortplanting. 
+
+
+
+## Order of business:
 
 Arrival in Saltcove Harbour
 
 Encounter with Poppy, describe red hair and red dress
 Commotion
 Dead body
-- investigate body
+- investigate body (Fiona)
 	- stab wound did most of the damage, died on impact, 2 dots on her neck
 - investigate weapon
 	- handmade blade -> smith
@@ -22,7 +33,7 @@ Dead body
 	- uh building, blood maybe, escape route roof
 story that 2 others have been found around town
 lockdown
-Witness can say they saw this girl with a man recently (for all 3 girls: Fiona, Rosemary, Jessica)
+Witness can say they saw this girl with a man recently (for all 3 girls: Fiona, Rose, Jessica)
 Poppy can be one of the witnesses that pretends she's devastated 
 the man is called Bruce and has strangely not been seen all day. 
 He works in the mines 
@@ -32,9 +43,13 @@ He works in the mines
 	- hats?
 	- no light
 - and a tunnel system under the city
- 
-
-
+ Warn Poppy that her husband is the murderer ^-^ 
+ Interrupt her when she's making knives, ones that match weapon description
+ (Hope party figures it out)
+call her out
+fight/restrain (police detain her)
+question Bruce
+fight vampire?
 
 
 
